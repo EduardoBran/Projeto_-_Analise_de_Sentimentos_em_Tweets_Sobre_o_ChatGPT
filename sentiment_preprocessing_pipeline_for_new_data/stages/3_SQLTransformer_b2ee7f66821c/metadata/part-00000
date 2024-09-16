@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.SQLTransformer","timestamp":1726512188313,"sparkVersion":"3.5.1","uid":"SQLTransformer_b2ee7f66821c","paramMap":{"statement":"SELECT final_text AS Text FROM __THIS__"},"defaultParamMap":{}}

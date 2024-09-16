@@ -1,0 +1,1 @@
+{"class":"pyspark.ml.pipeline.PipelineModel","timestamp":1726512187965,"sparkVersion":"3.5.1","uid":"PipelineModel_6f0929b9ea9d","paramMap":{"stageUids":["SQLTransformer_4a775dff6939","CleanTextStage_3b6ecf955785","RemoveStopwordsStage_dc475d25850f","SQLTransformer_b2ee7f66821c"],"language":"Python"},"defaultParamMap":{}}
